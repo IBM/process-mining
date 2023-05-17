@@ -1,0 +1,37 @@
+ライセンス情報
+
+以下の「プログラム」は、お客様と IBM とが事前に合意した「プログラム」の使用許諾条件に加えて、次のライセンス情報の使用条件に基づいて使用許諾されます。 お客様が「プログラム」の有効な使用許諾条件に事前に合意していない場合、 プログラムのご使用条件 (i125-3301-15) が適用されます。
+
+プログラム名 (プログラム番号):
+IBM Process Mining 1.14 (5900-ALQ)
+
+以下の標準条件が、ライセンシーによる「プログラム」の使用に適用されます。
+
+修正可能第三者コード
+
+「特記事項」のファイルの中でIBMが第三者コードを「修正可能第三者コード」と特定する場合、IBMは、ライセンシーに対して、1)「修正可能第三者コード」を修正すること、および 2) 当該第三者コードに対するライセンシーによる修正をデバッグすることを目的とする場合に限り「修正可能第三者コード」と直接インターフェースをとる「プログラム」のモジュールにリバース・エンジニアリングを行うことを許可します。 IBM にサービスおよびサポートの義務がある場合は、修正されていない「プログラム」に対してのみ適用されます。
+
+別途使用許諾されるコード
+
+NON_IBM_LICENSE ファイルに記載されているコンポーネントは「別途使用許諾されるコード」とみなされ、本使用条件ではなく、「プログラム」に添付される NON_IBM_LICENSE ファイルに記載されている該当する第三者の使用条件に基づきライセンシーに使用許諾されます。「プログラム」に対して将来提供される更新版もしくは修正版には、追加の「別途使用許諾されるコード」が含まれている場合があります。 追加された「別途使用許諾されるコード」および関連する使用許諾は、「プログラム」の更新版または修正版に付属する該当する NON_IBM_LICENSE ファイルに記載されます。
+
+注:「別途使用許諾されるコード」に関しては、第三者の使用許諾契約、本契約またはライセンシーが IBM と締結された他の契約にもかかわらず、以下の規定が適用されます。
+(a) IBM はライセンシーにこれをいかなる保証も適用せず提供し、法律上の瑕疵担保責任、権原の保証、第三者権利不侵害の保証、ならびに商品性の保証および特定目的適合性の保証を含む明示または黙示のいかなる保証責任も負わないものとします。
+(b) IBM は、データ損失、節約すべかりし費用または逸失収益を含むが、これに限らず、いかなる直接損害、間接損害、付随的損害、特別損害、懲罰的損害または結果的損害について責任を負わないものとします。
+
+さらに、以下の使用条件がライセンシーの「プログラム」の使用に適用されます。
+
+ITEM
+
+Item is a unit of measure by which the Program can be licensed. An Item is an occurrence of a specific item that is processed by, managed by, or related to the use of the Program. Sufficient entitlements must be obtained to cover every Item processed by, managed by, or related to the use of the Program.
+For the purpose of this Program, an Item is 140,000 monthly log events that is processed by, managed by, or related to the use of the Program, where an event is generated from a server, application or device that can be processed for a specific purpose. 
+
+Million Event
+
+A Million Event is a unit of measure by which the Program can be licensed. A Million Event is a log event generated from a server, application or device that can be processed for a specific purpose, rounded up to the nearest million. Sufficient entitlements must be obtained to cover the maximum number of Million Events to be collected and processed by the Program at any time.
+
+
+L/N: L-GDRK-YP38Z2
+D/N: L-GDRK-YP38Z2
+P/N: L-GDRK-YP38Z2
+

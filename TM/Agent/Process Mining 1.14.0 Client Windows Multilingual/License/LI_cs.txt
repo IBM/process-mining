@@ -1,0 +1,37 @@
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro program (i125-3301-15).
+
+Název Programu (Èíslo Programu):
+IBM Process Mining 1.14 (5900-ALQ)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako "Upravitelný kód tøetí strany", IBM opravòuje Dr¾itele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ov¹em za pøedpokladu, ¾e k tomu dochází pouze pro úèely ladìní zmìn Dr¾itele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+Samostatnì licencovaný kód
+
+V¹echny komponenty uvedené v souboru NON_IBM_LICENSE jsou pova¾ovány za "Samostatnì licencovaný kód" licencovaný Dr¾iteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích osob, jak je uvedeno v souboru (souborech) NON_IBM_LICENSE pøipojeném (pøipojených) k Programu, nikoli ve Smlouvì. Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v pou¾itelném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. 
+
+Poznámka: Bez ohledu na odli¹né podmínky licenèní smlouvy tøetích osob, této Smlouvy nebo jakékoliv jiné smlouvy, kterou má Dr¾itel licence s IBM pøípadnì uzavøenou, související se Samostatnì licencovaným kódem:
+(a) IBM jej poskytuje Dr¾iteli licence BEZ ZÁRUK JAKÉHOKOLIV DRUHU A ODMÍTÁ JAKÉKOLI A V©ECHNY VÝSLOVNÌ VYJÁDØENÉ NEBO Z OKOLNOSTÍ VYPLÝVAJÍCÍ ZÁRUKY A PODMÍNKY, VÈETNÌ - NIKOLI V©AK POUZE - ZÁRUKY VLASTNICKÉHO PRÁVA, NEPORU©ENÍ PRÁV TØETÍCH OSOB A Z OKOLNOSTÍ VYPLÝVAJÍCÍCH ZÁRUK A PODMÍNEK PRODEJNOSTI NEBO VHODNOSTI PRO URÈITÝ ÚÈEL;
+(b) IBM nenese odpovìdnost za ¾ádné pøímé, nepøímé, nahodilé, zvlá¹tní, exemplární ¹kody ani za sankèní náhrady ¹kody nebo za následné ¹kody vèetnì - nikoliv v¹ak pouze - ztráty dat, ztráty úspor a u¹lého zisku.
+
+Kromì vý¹e uvedeného se na pou¾ití Programu Dr¾itelem licence vztahují následující podmínky.
+
+ITEM
+
+Item is a unit of measure by which the Program can be licensed. An Item is an occurrence of a specific item that is processed by, managed by, or related to the use of the Program. Sufficient entitlements must be obtained to cover every Item processed by, managed by, or related to the use of the Program.
+For the purpose of this Program, an Item is 140,000 monthly log events that is processed by, managed by, or related to the use of the Program, where an event is generated from a server, application or device that can be processed for a specific purpose. 
+
+Million Event
+
+A Million Event is a unit of measure by which the Program can be licensed. A Million Event is a log event generated from a server, application or device that can be processed for a specific purpose, rounded up to the nearest million. Sufficient entitlements must be obtained to cover the maximum number of Million Events to be collected and processed by the Program at any time.
+
+
+L/N: L-GDRK-YP38Z2
+D/N: L-GDRK-YP38Z2
+P/N: L-GDRK-YP38Z2
+

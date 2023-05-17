@@ -1,0 +1,37 @@
+授權手冊
+
+下列本程式之授權除係依客戶與 IBM 先前同意之授權條款外，並依下述授權手冊條款授權。若客戶先前就本程式未同意生效任何授權條款，則本程式適用 國際程式授權合約 (i125-3301-15)。
+
+程式名稱 (程式編號)：
+IBM Process Mining 1.14 (5900-ALQ)
+
+下列標準條款適用於被授權人對本程式之使用。
+
+可修改之第三人程式碼
+
+在注意事項中 IBM 將第三人程式碼視為「可修改之第三人程式碼」時（若有），表示 IBM 授權被授權人得為下列情事： 1) 修改「可修改之第三人程式碼」及 2) 對直接連結「可修改之第三人程式碼」之本程式模組進行還原工程，惟僅限基於 貴客戶對該第三人程式碼所為之修改進行除錯之目的而為之。 IBM 之服務與支援義務（如果有的話），僅適用於未修改之「程式」。
+
+獨立授權程式碼
+
+NON_IBM_LICENSE 檔案所列各元件分別視為「獨立授權程式碼」，其授權係依訂於檢附於「本程式」（而非本合約）之 NON_IBM_LICENSE 檔內適用第三人授權合約條款之規定授與被授權人。未來之程式更新或修正程式可能包含額外之「獨立授權程式碼」，該等額外「獨立授權程式碼」及相關之授權列於另一份檢附於本程式更新或修正程式之適用 NON_IBM_LICENSE 檔內。
+
+附註：縱使於第三人授權合約、本合約或被授權人可能與 IBM 所簽署之任何其他合約，就「獨立授權程式碼」訂有任何條款：
+(a) IBM 提供前述程式碼授權予被授權人，係未提供任何方式之保證；及 未提供任何明示與默示之保證，包括且不限於所有權、未涉侵權或不受干擾之保證，以及適售性與符合特定用途之默示保證與擔保；
+(b) IBM 對於任何直接、間接、附帶、特殊、懲戒性、懲罰性或衍生性損害，包括但不限於資料之滅失、可預期節省之成本及所失利益，概不負責任。
+
+除前揭條款外，下列條款亦適用於被授權人對本程式之使用。
+
+ITEM
+
+Item is a unit of measure by which the Program can be licensed. An Item is an occurrence of a specific item that is processed by, managed by, or related to the use of the Program. Sufficient entitlements must be obtained to cover every Item processed by, managed by, or related to the use of the Program.
+For the purpose of this Program, an Item is 140,000 monthly log events that is processed by, managed by, or related to the use of the Program, where an event is generated from a server, application or device that can be processed for a specific purpose. 
+
+Million Event
+
+A Million Event is a unit of measure by which the Program can be licensed. A Million Event is a log event generated from a server, application or device that can be processed for a specific purpose, rounded up to the nearest million. Sufficient entitlements must be obtained to cover the maximum number of Million Events to be collected and processed by the Program at any time.
+
+
+L/N: L-GDRK-YP38Z2
+D/N: L-GDRK-YP38Z2
+P/N: L-GDRK-YP38Z2
+

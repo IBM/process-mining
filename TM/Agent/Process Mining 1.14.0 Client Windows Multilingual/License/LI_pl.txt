@@ -1,0 +1,37 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Program (i125-3301-15).
+
+Nazwa Programu (Numer Programu):
+IBM Process Mining 1.14 (5900-ALQ)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Modyfikowany Kod Osób Trzecich
+
+Je¶li w pliku NOTICES (UWAGI) IBM okre¶li kod osoby trzeciej jako "Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu ¼ród³owego modu³ów Programu, które bezpo¶rednio wspó³pracuj± z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³±cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi±zania IBM w zakresie serwisu i wsparcia dotycz± wy³±cznie niezmodyfikowanego Programu.
+
+Kod Licencjonowany Oddzielnie
+
+Ka¿dy z komponentów wymienionych w pliku NON_IBM_LICENSE jest uwa¿any za "Kod Licencjonowany Oddzielnie", licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umów licencyjnych osób trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do³±czonym (do³±czonych) do Programu, nie za¶ na warunkach niniejszej Umowy. Przysz³e aktualizacje lub poprawki do Programu mog± zawieraæ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwi±zane z nimi licencje s± wymienione w odpowiednim pliku NON_IBM_LICENSE do³±czonym do aktualizacji lub poprawki do Programu.
+
+Uwaga: Bez wzglêdu na jakiekolwiek warunki umów licencyjnych z osobami trzecimi, niniejszej Umowy czy te¿ jakiejkolwiek innej umowy, jak± Licencjobiorca móg³ zawrzeæ z IBM w zwi±zku z Kodem Licencjonowanym Oddzielnie:
+(a) IBM dostarcza Licencjobiorcy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ); ORAZ NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAK¯E WY£¡CZA RÊKOJMIÊ) I NIE USTALA JAKICHKOLWIEK WARUNKÓW, WYRA¬NYCH CZY DOMNIEMANYCH, A W SZCZEGÓLNO¦CI NIE UDZIELA GWARANCJI PRAW W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI I WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU;
+(b) IBM nie ponosi odpowiedzialno¶ci za jakiekolwiek szkody bezpo¶rednie, po¶rednie, uboczne, szczególne, szkody, których nie mo¿na by³o przewidzieæ przy zawieraniu umowy oraz szkody zwi±zane z naruszeniem dóbr osobistych, a w szczególno¶ci utratê danych czy spodziewanych oszczêdno¶ci i korzy¶ci.
+
+Ponadto u¿ywanie Programu przez Licencjobiorcê podlega nastêpuj±cym warunkom.
+
+ITEM
+
+Item is a unit of measure by which the Program can be licensed. An Item is an occurrence of a specific item that is processed by, managed by, or related to the use of the Program. Sufficient entitlements must be obtained to cover every Item processed by, managed by, or related to the use of the Program.
+For the purpose of this Program, an Item is 140,000 monthly log events that is processed by, managed by, or related to the use of the Program, where an event is generated from a server, application or device that can be processed for a specific purpose. 
+
+Million Event
+
+A Million Event is a unit of measure by which the Program can be licensed. A Million Event is a log event generated from a server, application or device that can be processed for a specific purpose, rounded up to the nearest million. Sufficient entitlements must be obtained to cover the maximum number of Million Events to be collected and processed by the Program at any time.
+
+
+L/N: L-GDRK-YP38Z2
+D/N: L-GDRK-YP38Z2
+P/N: L-GDRK-YP38Z2
+

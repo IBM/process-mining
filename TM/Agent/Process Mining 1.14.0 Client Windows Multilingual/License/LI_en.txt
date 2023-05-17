@@ -1,0 +1,37 @@
+LICENSE INFORMATION
+
+The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
+
+Program Name (Program Number):
+IBM Process Mining 1.14 (5900-ALQ)
+
+The following standard terms apply to Licensee's use of the Program.
+
+Modifiable Third Party Code
+
+To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
+
+Separately Licensed Code
+
+Each of the components listed in the NON_IBM_LICENSE file is considered "Separately Licensed Code" licensed to Licensee under the terms of the applicable third party license agreement(s) set forth in the NON_IBM_LICENSE file(s) that accompanies the Program, and not this Agreement. Future Program updates or fixes may contain additional Separately Licensed Code. Such additional Separately Licensed Code and related licenses are listed in the applicable NON_IBM_LICENSE file that accompanies the Program update or fix. 
+
+Note: Notwithstanding any of the terms in the third party license agreement, the Agreement, or any other agreement Licensee may have with IBM, with respect to the Separately Licensed Code: 
+(a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
+(b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
+
+In addition to the above, the following terms apply to Licensee's use of the Program.
+
+ITEM
+
+Item is a unit of measure by which the Program can be licensed. An Item is an occurrence of a specific item that is processed by, managed by, or related to the use of the Program. Sufficient entitlements must be obtained to cover every Item processed by, managed by, or related to the use of the Program.
+For the purpose of this Program, an Item is 140,000 monthly log events that is processed by, managed by, or related to the use of the Program, where an event is generated from a server, application or device that can be processed for a specific purpose. 
+
+Million Event
+
+A Million Event is a unit of measure by which the Program can be licensed. A Million Event is a log event generated from a server, application or device that can be processed for a specific purpose, rounded up to the nearest million. Sufficient entitlements must be obtained to cover the maximum number of Million Events to be collected and processed by the Program at any time.
+
+
+L/N: L-GDRK-YP38Z2
+D/N: L-GDRK-YP38Z2
+P/N: L-GDRK-YP38Z2
+
